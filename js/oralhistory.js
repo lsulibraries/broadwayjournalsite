@@ -83,7 +83,20 @@ sr.reveal('.subText', { duration: 1000, delay: 500, distance: 20  });
 sr.reveal('.menuBox', { duration: 500}, 150);
 sr.reveal('.ohFooter2 a', { duration: 2000, distance: 20 }, 150);
 sr.reveal('.conBox', { duration: 2000, distance: 20 }, 150);
-sr.reveal('a .linkSingle', { duration: 2000, distance: 20 }, 50);
+sr.reveal('a .linkSingle', { duration: 200, delay: 500, distance: 20 }, 20);
+
+$(window).on("orientationchange",function(){
+  if(window.orientation == 0) // Portrait
+  {
+
+  }
+  else // Landscape
+  {
+    $("sectionCover").css({"border-right": "1px solid #8c8c8c","width": "50%", "border-bottom": "0px",});
+    $("sectionTitle").css({"display": "flex", "margin": "0px",});
+    $("introWording").css({"padding-left": "20px", "padding-right": "20px",});
+  }
+});
 
 
 $( document ).scroll(function() {

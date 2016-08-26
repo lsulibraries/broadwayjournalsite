@@ -298,6 +298,10 @@ font-size: .8em;
   background-color: rgba(110, 110, 110, 0.1);
 }
 
+.chosenSingle:hover{
+  color: #8c8c8c;
+}
+
 #wideMenu.navExpand {
   padding-left: 0%;
 }
@@ -1111,6 +1115,23 @@ span.highlight {
   margin: 0px;
 }
 
+.landscapeTitle{
+  display: flex;
+  margin: 0px
+}
+
+.landscapeCover{
+      border-right: 1px solid #8c8c8c;
+      width: 50%;
+      border-bottom: 0px;
+
+}
+
+.landscapeWording{
+  padding-left: 20px;
+      padding-right: 20px;
+}
+
 .itemTitle {
   position: absolute;
       bottom: 0px;
@@ -1126,7 +1147,6 @@ span.highlight {
       text-transform: uppercase;
       -webkit-transition-duration: 1s;
       transition-duration: 1s;
-
 }
 
 .chosenTitle{
@@ -1630,7 +1650,7 @@ transition-duration: 0s;
     margin-right: 27.7777777778%;
     width: 100%;
     margin-bottom: 10px;
-    background-position: 95% 33%;
+    background-position: 95% 25%;
 
   }
   #finalists .item:last-child,

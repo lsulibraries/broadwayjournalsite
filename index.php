@@ -109,7 +109,7 @@
               <div class="itemTitle">about</div>
           </a>
 
-          <a href="whyoh.html" class="itemTile" id="bestIcon">
+          <a href="extra.html" class="itemTile" id="bestIcon">
               <div class="diagLine"></div><div class="diagLine2"></div>
               <div class="itemTitle">extra</div>
           </a>
@@ -117,6 +117,9 @@
       </div>
 
       <div class="subText">
+        <h3 class="centerHeader">Issues</h3>
+
+
         <p>The Broadway Journal was published from January 4, 1845 - January 3, 1846.  A 16-page issue was published every Saturday.   Charles Frederick Briggs (founder and editor) and John Bisco (publisher) started the journal.  Poe contributed from the start, began editing the journal in February 1845, became sole editor in July, and sole owner just a few months later in October.  </p><br>
 
       </div>
@@ -127,48 +130,48 @@
       </div>
       </a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450208.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         February  8, 1845
       </div>
       </a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450215.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         February 15, 1845
       </div></a>
 
-        <a href="" target="_self"  class="smallTile">
+        <a href="18450222.html" target="_self"  class="smallTile">
         <div class="linkSingle">
           February 22, 1845
       </div></a>
 
-        <a href="" target="_self"  class="smallTile">
+        <a href="18450301.html" target="_self"  class="smallTile">
         <div class="linkSingle">
           March  1, 1845
       </div></a>
 
-        <a href="" target="_self"  class="smallTile">
+        <a href="18450308.html" target="_self"  class="smallTile">
         <div class="linkSingle">
           March  8, 1845
       </div></a>
 
-        <a href="" target="_self"  class="smallTile">
+        <a href="18450315.html" target="_self"  class="smallTile">
         <div class="linkSingle">
           March 15, 1845
       </div></a>
 
-        <a href="" target="_self"  class="smallTile">
+        <a href="18450322.html" target="_self"  class="smallTile">
         <div class="linkSingle">
           March 22, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450329.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         March 29, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450405.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         April  5, 1845
       </div></a>
@@ -183,81 +186,81 @@
         April  19, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450426.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         April  26, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450503.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         May  3, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450510.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         May  10, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450517.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         May 17, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450524.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         May 24, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450531.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         May 31, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450607.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         June 7, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450614.html" target="_self"  class="smallTile">
       <div class="linkSingle">
        June 14, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450621.html" target="_self"  class="smallTile">
       <div class="linkSingle">
        June 21, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450628.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         June 28, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450712.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         July 12, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450719.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         July 19, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450726.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         July 26, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450802.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         August 2, 1845
       </div></a>
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450809.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         August 9, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450816.html" target="_self"  class="smallTile">
       <div class="linkSingle">
         August 16, 1845
       </div></a>
@@ -287,84 +290,79 @@
       September 20, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18450927.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       September 27, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451004.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       October 4, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451011.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       October 11, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451018.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       October 18, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451025.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       October 25, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451101.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       November 1, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451108.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       November 8, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451115.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       November 15, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451122.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       November 22, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451129.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       November 29, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451206.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       December 6, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451213.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       December 13, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451220.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       December 20, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18451227.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       December 27, 1845
       </div></a>
 
-      <a href="" target="_self"  class="smallTile">
+      <a href="18460103.html" target="_self"  class="smallTile">
       <div class="linkSingle">
       January 3, 1846
-      </div></a>
-
-      <a href="" target="_self"  class="smallTile">
-      <div class="linkSingle">
-      December 31, 1846
       </div></a>
 
 
