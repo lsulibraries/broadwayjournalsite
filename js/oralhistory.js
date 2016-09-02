@@ -13,7 +13,7 @@ $(document).ready(function() {
 
 });
 
-    $('#titleHome').vide('loop/poebg.mp4',{
+    $('#titleHome').vide('loop/typewriterShort.mp4',{
         volume: 1,
         playbackRate: 1,
         muted: true,
@@ -82,6 +82,7 @@ sr.reveal('.itemTile', { duration: 1000, delay: 500,  easing: 'ease-in', }, 150)
 sr.reveal('.subText', { duration: 1000, delay: 500, distance: 20  });
 sr.reveal('.menuBox', { duration: 500}, 150);
 sr.reveal('.ohFooter2 a', { duration: 2000, distance: 20 }, 150);
+sr.reveal('#creativeCommons', { duration: 2500, distance: 20 }, 150);
 sr.reveal('.conBox', { duration: 2000, distance: 20 }, 150);
 sr.reveal('a .linkSingle', { duration: 200, delay: 500, distance: 20 }, 20);
 

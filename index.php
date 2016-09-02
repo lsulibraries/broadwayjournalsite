@@ -88,8 +88,8 @@
 
     <section id="contentHome" >
     <div class="largeTitle">
-    <h1>Explore Poe</h1>
-    <h2>Through the Broadway Journal<h2>
+    <h1>Explore</h1>
+    <h2>the Broadway Journal<h2>
     </div>
 
 <article>
@@ -374,14 +374,23 @@
 
         </div>
 </article>
+
 </section>
 <!--End section-->
-
+</section>
 
 <section id="homeFooter" class="ohFooter2 flex">
   <a href="index.php">The broadway journal</a>
+
 </section>
-</div>
+
+<section id="infoFooter" class="flex"><div id="creativeCommons">
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br>
+
+ contact the <a href="mailto:dsl@lsu.edu" target="_blank">Digital Scholarship Lab</a> at LSU Libraries with any questions or comments. </div></section>
+
+
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <script src="js/jquery.vide.js"></script>
     <script src="js/scrollreveal.js" type="text/javascript" charset="utf-8"></script>
